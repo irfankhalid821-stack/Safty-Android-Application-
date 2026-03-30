@@ -133,12 +133,25 @@ APIs	Google Maps API, GPS Location Services
 
 
 1.User logs into the application
+
+
 2.User presses the Emergency Button
+
+
 3.Application captures:
+
+
 oLatitude & Longitude
+
+
 oEmergency status
+
+
 4.Data is sent to Firebase in real time
+
+
 5.Authorized users can monitor location via tracking interface
+
 
 🛠️ Setup Instructions
 
