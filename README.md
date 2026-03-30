@@ -158,20 +158,40 @@ app/google-services.json
 
 
 Uses legacy Android Support Libraries (SDK 26)
+
+
 Firebase SDK version is outdated
+
+
 No push notification system
+
+
 Basic authentication (not fully secure)
+
 
 🔮 Future Enhancements
 
 
 🔔 Push Notifications using Firebase Cloud Messaging (FCM)
+
+
 🔐 Secure Authentication (Firebase Auth)
+
+
 ☁️ Cloud Functions for automation
+
+
 🌐 Web Dashboard for live tracking
+
+
 🤖 AI-based abnormal activity detection
+
+
 🎨 Modern UI using Material Design (AndroidX)
+
+
 📡 Offline support with data sync
+
 
 💼 Business & Social Impact
 
