@@ -191,26 +191,26 @@ app/google-services.json
 
 🔮 Future Enhancements
 
-
-🔔 Push Notifications using Firebase Cloud Messaging (FCM)
-
-
-🔐 Secure Authentication (Firebase Auth)
+ 
+🔔 Push Notifications using Firebase Cloud Messaging (FCM)
 
 
-☁️ Cloud Functions for automation
+🔐 Secure Authentication (Firebase Auth)
 
 
-🌐 Web Dashboard for live tracking
+☁️ Cloud Functions for automation
 
 
-🤖 AI-based abnormal activity detection
+🌐 Web Dashboard for live tracking
 
 
-🎨 Modern UI using Material Design (AndroidX)
+🤖 AI-based abnormal activity detection
 
 
-📡 Offline support with data sync
+🎨 Modern UI using Material Design (AndroidX)
+
+
+📡 Offline support with data sync
 
 
 💼 Business & Social Impact
