@@ -232,10 +232,14 @@ This system can significantly improve safety by:
 
 
 👨‍💻 Author
+
 Irfan Khalid
 Data Scientist | Machine Learning Enthusiast
+
 📧 irfan.khalid821@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/irfan-khalid-muhamad-khalid-8b0679130
+
 💻 GitHub: https://github.com/irfankhalid821-stack
 
 ⭐ Support
