@@ -234,7 +234,9 @@ This system can significantly improve safety by:
 
 ## 📱 Download App
 
-[Download APK](https://drive.google.com/uc?export=download&id=1fbv40GEPgTqcz9kWq_FEq0Z_J7a1O5QN)
+[Download APK]
+
+(https://drive.google.com/uc?export=download&id=1fbv40GEPgTqcz9kWq_FEq0Z_J7a1O5QN)
 
 
 ---
