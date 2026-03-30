@@ -8,10 +8,14 @@ Android-based emergency response app that sends real-time GPS location and alert
 Women Protection & Emergency Response System
 
 📌 Overview
+
+
 The Firebase Safety App is an Android-based emergency response system designed to enhance personal safety by enabling users to send real-time alerts and location data during critical situations.
 The application leverages Firebase Realtime Database, GPS tracking, and Google Maps API to provide a fast, reliable, and scalable safety solution.
 
 🎯 Problem Statement
+
+
 With the rise in safety threats such as harassment, kidnapping, robbery, and other emergencies, there is a critical need for a system that can:
 Instantly share a user’s live location
 Alert trusted contacts in real time
@@ -19,6 +23,8 @@ With the rise in safety threats such as harassment, kidnapping, robbery, and oth
 Traditional safety measures are often slow or ineffective in urgent situations. This system aims to reduce response time and improve personal security.
 
 💡 Proposed Solution
+
+
 The application provides a one-tap emergency alert system that:
 Sends real-time GPS location to the cloud
 Triggers an emergency alert message
@@ -27,6 +33,8 @@ The application provides a one-tap emergency alert system that:
 This ensures immediate communication and faster assistance during emergencies.
 
 🚀 Key Features
+
+
 🚨 One-Tap Emergency Alert
 📍 Real-Time GPS Location Tracking
 ☁️ Firebase Realtime Database Integration
@@ -36,6 +44,8 @@ This ensures immediate communication and faster assistance during emergencies.
 ⚡ Lightweight & Fast Performance
 
 🏗️ System Architecture
+
+
 User Device → Android Application → Firebase Realtime Database → Tracking Interface (Family / Police)
 
 📱 Application Modules
