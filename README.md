@@ -122,12 +122,18 @@ User Device → Android Application → Firebase Realtime Database → Tracking 
 ⚙️ Tech Stack
 
 
-Category	Technology Used
-Language	Java
-Platform	Android (SDK 26)
-Database	Firebase Realtime Database
-IDE	Android Studio
-APIs	Google Maps API, GPS Location Services
+1. Language	: Java
+
+2. Platform	: Android (SDK 26)
+
+3. Database	: Firebase Realtime Database
+
+4. IDE: Android Studio
+
+5. APIs	Google Maps API
+
+6. GPS Location Services
+
 
 🔄 How It Works
 
